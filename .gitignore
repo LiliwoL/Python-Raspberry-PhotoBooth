@@ -1,4 +1,6 @@
 .idea
 capture/
-__py_cache__/
+__pycache__/
 logs/
+.DS_Store
+*.pyc
